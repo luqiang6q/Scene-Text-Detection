@@ -69,7 +69,8 @@
 - COCO-Text：
   - **Introduction:** It contains 63686 images in total, 43686 for training, 10000 for validating and 10000 for testing. Specifically, it contains 145859  cropped word images for testing, including handwritten and printed, clear and blur, English and non-English.
   - **Link:** [COCO-Text-download](https://vision.cornell.edu/se3/coco-text-2/)
-
+- COCO-Text_v2:
+  - **Link:**[COCO-Text_v2_download](https://bgshih.github.io/cocotext/#h2-download)
 - MSRA-TD500：
   - **Introduction:** It contains 500 images in total. It provides text-line-level annotation rather than word, and polygon boxes rather than axis-aligned rectangles for text region annootation. It contains both English and Chinese text instance.
   - **Link:** [MSRA-TD500-download](http://pages.ucsd.edu/~ztu/Download_front.htm)
